@@ -1,6 +1,12 @@
-Tue Jun 21 23:15:43 2022
-Tworzenie plikow
+Sat Jun 25 12:35:03 2022
+Tworzenie testowych plikow
 
-Tue Jun 21 23:15:43 2022
-Pliki zostaly stworzone
+Sat Jun 25 12:35:03 2022
+Pliki testowe zostaly stworzone
+
+Sat Jun 25 12:35:06 2022
+Tworzenie testowych plikow
+
+Sat Jun 25 12:35:06 2022
+Pliki testowe zostaly stworzone
 

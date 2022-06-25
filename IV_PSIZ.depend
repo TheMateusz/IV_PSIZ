@@ -1,7 +1,0 @@
-# depslib dependency file v1.0
-1655845942 source:c:\users\mateusz\desktop\iv_psiz\main.cpp
-	<iostream>
-	<fstream>
-	<sstream>
-	<ctime>
-
